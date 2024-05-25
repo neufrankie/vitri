@@ -1,0 +1,14 @@
+E:\Codegym\c# start\vitri\obj\Debug\net8.0\vitri.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codegym\c# start\vitri\obj\Debug\net8.0\vitri.AssemblyInfoInputs.cache
+E:\Codegym\c# start\vitri\obj\Debug\net8.0\vitri.AssemblyInfo.cs
+E:\Codegym\c# start\vitri\obj\Debug\net8.0\vitri.csproj.CoreCompileInputs.cache
+E:\Codegym\c# start\vitri\bin\Debug\net8.0\vitri.exe
+E:\Codegym\c# start\vitri\bin\Debug\net8.0\vitri.deps.json
+E:\Codegym\c# start\vitri\bin\Debug\net8.0\vitri.runtimeconfig.json
+E:\Codegym\c# start\vitri\bin\Debug\net8.0\vitri.dll
+E:\Codegym\c# start\vitri\bin\Debug\net8.0\vitri.pdb
+E:\Codegym\c# start\vitri\obj\Debug\net8.0\vitri.dll
+E:\Codegym\c# start\vitri\obj\Debug\net8.0\refint\vitri.dll
+E:\Codegym\c# start\vitri\obj\Debug\net8.0\vitri.pdb
+E:\Codegym\c# start\vitri\obj\Debug\net8.0\vitri.genruntimeconfig.cache
+E:\Codegym\c# start\vitri\obj\Debug\net8.0\ref\vitri.dll
